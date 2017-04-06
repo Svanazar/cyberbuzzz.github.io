@@ -2476,9 +2476,9 @@ footer .info {
 
 footer .footer-logo {
 	width: 100px;
-	height: 23px;
+	height: 200px;
 	background: url("../images/logo.PNG") no-repeat center;
-	background-size: 100px 23px;
+	background-size: 100% 50%;
 	margin: 0 auto 21px;
 	display: block;
 	filter: alpha(opacity=10);
