@@ -581,7 +581,7 @@ hr {
 }
 
 .section-head:hover h1 + hr {
-	border-color: aqua;
+	border-color: #fdc501;
 	width: 120px;
 	text-align: left;
 }
